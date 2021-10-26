@@ -26,6 +26,8 @@ body {
     background-position: top left, top left, bottom left, bottom left;
     background-size: 12px 12px;
     background-repeat: repeat-x;
+    width: 100%;
+    height: 100%;
 }
 
 .banner-vertical-c2 {
@@ -34,6 +36,8 @@ body {
     background-position: top left, top left, bottom left, bottom left;
     background-size: 12px 12px;
     background-repeat: repeat-x;
+    width: 100%;
+    height: 100%;
 }
 
 .banner-vertical-c3 {
@@ -42,19 +46,27 @@ body {
     background-position: top left, top left, bottom left, bottom left;
     background-size: 12px 12px;
     background-repeat: repeat-x;
+    width: 100%;
+    height: 100%;
 }
 
 .card-color {
     background-color: #f05945;
+    width: 100%;
+    height: 100%;
 }
 
 
 .section-tittle {
     font-family: Playtime;
     font-size: 6em;
+    width: 100%;
+    height: 100%;
 }
 
 .section-tittle-2 {
     font-family: "Comic Sans MS";
     font-size: 4em;
+    width: 100%;
+    height: 100%;
 }
